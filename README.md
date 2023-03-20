@@ -11,7 +11,7 @@
 <div>
     <a href="https://app.futureskill.co/certificate?courseId=51&userId=18769"        target="_blank" rel="noreferrer">
         <img align="left" img width="45%"  src="./assets/Data Science for everyone.png"></a>
-        <img align="right" img width="55%"  src="./assets/CLF-TH0026.jfif"></a>
+        <img align="right" img width="55%"  src="./assets/Data_analytics_for_Business_cer.jpg"></a>
 </div>
 
 
