@@ -1,5 +1,5 @@
 ### Hi there! Welcome to my GitHub Profile! 👋
-
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Fight, I'm looking for data scientist or ai engineer job <img src="./assets/waving-hand.webp" width="4%">
 <!--
 **chayanondev/chayanondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
