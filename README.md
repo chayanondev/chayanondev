@@ -1,9 +1,11 @@
 # Hi there! Welcome to my GitHub Profile! 👋
-## ✨My name is Fight, I'm looking for data scientist or ai engineer job✨
+## ✨My name is Fight, I'm looking for Data Scientist or AI engineer job✨
 <div align="center">
     <img width="50%" src="./assets/my_profile.jpg">
 </div>
+## 🛠 Languages and Tools
 
+## 🏆 Certificates 
 
 
 
