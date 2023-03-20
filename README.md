@@ -9,10 +9,10 @@
 ## 🏆 Certificates 
 
 <div>
-    <a href="https://app.futureskill.co/certificate?courseId=51&userId=18769"        target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/Data Science for everyone.png"></a>
-   <a href="https://app.futureskill.co/certificate?courseId=55&userId=18769"          target="_blank" rel="noreferrer">
-        <img align="left" img width="45%" src="./assets/Data_analytics_for_Business_cer.jpg"></a>
+    <a href="https://app.futureskill.co/certificate?courseId=55&userId=18769"        target="_blank" rel="noreferrer">
+        <img align="right" img width="45%"  src="./assets/Data_analytics_for_Business_cer.jpg"></a>
+   <a href="https://app.futureskill.co/certificate?courseId=51&userId=18769"          target="_blank" rel="noreferrer">
+        <img align="left" img width="45%" src="./assets/Data Science for everyone.png"></a>
 </div>
 
 
@@ -23,12 +23,7 @@
          <img align="right" img width="45%"  src="./assets/Deep Learning Onramp.jpg"></a>
 </div>
 
-<div>
-    <a href=""        target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/sql-borntodev.jpg"></a>
-   <a href=""          target="_blank" rel="noreferrer">
-        <img align="left" img width="45%" src="./assets/Certificate ArcGIS Bootcamp.jpg"></a>
-</div>
+
 
 
 
