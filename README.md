@@ -10,16 +10,16 @@
 
 <div>
     <a href="https://app.futureskill.co/certificate?courseId=51&userId=18769"        target="_blank" rel="noreferrer">
-        <img align="left" img width="45%"  src="./assets/Data Science for everyone.png"></a>
+        <img align="left" img width="35%"  src="./assets/Data Science for everyone.png"></a>
     <a href="https://app.futureskill.co/certificate?courseId=55&userId=18769"        target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/Data_analytics_for_Business_cer.jpg"></a>
+        <img align="right" img width="35%"  src="./assets/Data_analytics_for_Business_cer.jpg"></a>
 </div>
 
 <div>
     <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fd2709db-1f03-49ec-a31c-7dfed2d9f613&"        target="_blank" rel="noreferrer">
-        <img align="left" img width="45%"  src="./assets/MATLAB Onramp.jpg"></a>
+        <img align="left" img width="35%"  src="./assets/MATLAB Onramp.jpg"></a>
     <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=04bdb429-1996-4c31-91dc-37c3e52b30ca&"        target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/Deep Learning Onramp.jpg"></a>
+        <img align="right" img width="35%"  src="./assets/Deep Learning Onramp.jpg"></a>
 </div>
 
 
