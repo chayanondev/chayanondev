@@ -16,9 +16,9 @@
 
 <div>
     <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fd2709db-1f03-49ec-a31c-7dfed2d9f613&"        target="_blank" rel="noreferrer">
-        <img align="left" img width="45%"  src="./assets/MATLAB Onramp.jpg"></a>
+        <img align="left" img width="40%"  src="./assets/MATLAB Onramp.jpg"></a>
     <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=04bdb429-1996-4c31-91dc-37c3e52b30ca&"        target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/Deep Learning Onramp.jpg"></a>
+        <img align="right" img width="40%"  src="./assets/Deep Learning Onramp.jpg"></a>
 </div>
 
 
