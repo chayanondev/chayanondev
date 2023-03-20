@@ -10,7 +10,7 @@
 To verify the certificates, click the images to follow the links.
 <div>
     <a href="https://app.futureskill.co/certificate?courseId=51&userId=18769"        target="_blank" rel="noreferrer">
-        <img align="left" img width="45%"  src="./assets/Data Science for everyone.pdf"></a>
+        <img align="left" img width="45%"  src="./assets/Data Science for everyone.png"></a>
 </div>
 
 
