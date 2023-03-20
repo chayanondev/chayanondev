@@ -3,6 +3,7 @@
 <div align="center">
     <img width="50%" src="./assets/my_profile.jpg">
 </div>
+
 ## 🛠 Languages and Tools
 
 ## 🏆 Certificates 
