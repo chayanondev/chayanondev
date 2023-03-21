@@ -14,7 +14,7 @@ future.
 ## 🛠 Languages and Tools
 ⚡I have been learning and exploring these following tools and languages
 <div align="center"> 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fmatlab-logo%2F&psig=AOvVaw3jTb6IafoS8TnDiC7mSvMt&ust=1679467157202000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDwn-207P0CFQAAAAAdAAAAABAE" alt="python" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a></p>
 </div>
 
 ## 🏆 Certificates 
