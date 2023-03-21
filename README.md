@@ -11,6 +11,7 @@ future.
 
 📖 Now, I enjoy learning new technologies and new programming languages
 
+
 <div align="center">
     <a><img width="55%"  src="https://quotefancy.com/media/wallpaper/3840x2160/2419766-Donald-Berwick-Quote-We-must-accept-human-error-as-inevitable-and.jpg"></a>
 </div>
