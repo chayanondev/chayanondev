@@ -34,6 +34,13 @@ future.
          <img align="right" img width="45%"  src="./assets/Deep Learning Onramp.jpg"></a>
 </div>
 
+<div>
+   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YN6SWKR7HGEW"        target="_blank" rel="noreferrer">
+       <img align="left" img width="45%" src="./assets/sql-borntodev.jpg"></a>
+  <a href="https://www.esrith.com/en/"         target="_blank" rel="noreferrer">
+        <img align="right" img width="45%"  src="Certificate ArcGIS Bootcamp.jpg"></a>    
+</div>
+
 
 
 
