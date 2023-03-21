@@ -7,7 +7,7 @@
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 <div align="center"> 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/discovery/matlab-code.html" target="_blank" rel="noreferrer"> <img src="https://assets.onthehub.com/attachments/9/ae9419f9-387d-de11-b7f9-0030487d8896/b77d7798-efcd-4482-b6f1-067f6fb39cc4.png?t=637517824508130000" alt="python" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/discovery/matlab-code.html" target="_blank" rel="noreferrer"> <img src="https://assets.onthehub.com/attachments/9/ae9419f9-387d-de11-b7f9-0030487d8896/b77d7798-efcd-4482-b6f1-067f6fb39cc4.png?t=637517824508130000" alt="python" width="50" height="50"/> </a>
     
     
     </p>
