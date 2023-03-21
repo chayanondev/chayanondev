@@ -29,9 +29,9 @@ future.
 
 <div>
     <a href="https://robolly.com/backend/rendered/64194ea8bd2cd5deaf9f1540"        target="_blank" rel="noreferrer">
-        <img align="left" img width="45%" src="business analytics.jpg"></a>
+        <img align="left" img width="45%" src="./assets/business analytics.jpg"></a>
      <a href="https://drive.google.com/file/d/1UFNupsHrZyvzd7STIjc4u74ovoWo-9PJ/view"        target="_blank" rel="noreferrer">   
-         <img align="right" img width="45%"  src="Upskill Python.jpg"></a>
+         <img align="right" img width="45%"  src="./assets/Upskill Python.jpg"></a>
 </div>
 
 <div>
