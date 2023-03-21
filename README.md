@@ -7,10 +7,7 @@
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 <div align="center"> 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/discovery/matlab-code.html" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol.jpg" alt="python" width="50" height="50"/> </a>
-    
-    
-    </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 </div>
 ## 🏆 Certificates 
 
