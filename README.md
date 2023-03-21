@@ -28,17 +28,17 @@ future.
 
 
 <div>
-    <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fd2709db-1f03-49ec-a31c-7dfed2d9f613&"        target="_blank" rel="noreferrer">
-        <img align="left" img width="45%" src="./assets/MATLAB Onramp.jpg"></a>
-     <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=04bdb429-1996-4c31-91dc-37c3e52b30ca&"        target="_blank" rel="noreferrer">   
-         <img align="right" img width="45%"  src="./assets/Deep Learning Onramp.jpg"></a>
+    <a href="https://robolly.com/backend/rendered/64194ea8bd2cd5deaf9f1540"        target="_blank" rel="noreferrer">
+        <img align="left" img width="45%" src="business analytics.jpg"></a>
+     <a href="https://drive.google.com/file/d/1UFNupsHrZyvzd7STIjc4u74ovoWo-9PJ/view"        target="_blank" rel="noreferrer">   
+         <img align="right" img width="45%"  src="Upskill Python.jpg"></a>
 </div>
 
 <div>
-   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YN6SWKR7HGEW"        target="_blank" rel="noreferrer">
-       <img align="left" img width="45%" src="./assets/sql-borntodev.jpg"></a>
-  <a href="https://www.esrith.com/en/"         target="_blank" rel="noreferrer">
-        <img align="right" img width="45%"  src="./assets/Certificate ArcGIS Bootcamp.jpg"></a>    
+   <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fd2709db-1f03-49ec-a31c-7dfed2d9f613&"        target="_blank" rel="noreferrer">
+       <img align="left" img width="45%" src="./assets/MATLAB Onramp.jpg"></a>
+  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=04bdb429-1996-4c31-91dc-37c3e52b30ca&"         target="_blank" rel="noreferrer">
+        <img align="right" img width="45%"  src="./assets/Deep Learning Onramp.jpg"></a>    
 </div>
 
 
