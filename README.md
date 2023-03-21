@@ -3,6 +3,12 @@
 <div align="center">
     <img width="50%" src="./assets/my_profile.jpg">
 </div>
+📖 I am currently in my 4th year and will graduate in May 2023.Even though I didn't study IT directly, but I'm
+interested in studying this field which I have studied online like YouTube Datacamp and Udemy.I am ready
+to work under pressure and ready to learn new things from the advice of my colleagues. Also self-learned
+and ready to practice regularly Finally, I want to be a part of the company in order to grow together in the
+future.
+📖 Now, I enjoy learning new technologies and new programming languages
 
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
